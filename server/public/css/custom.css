@@ -1,0 +1,221 @@
+
+:root{
+
+    --sidebar-bg-color:#0382d0;
+    --para:blue;
+    --para-bg:red;
+}
+
+
+/* sidebar  */
+
+
+/* sidebar background color  */
+p{
+    color: var(--para);
+    background-color: var(--para-bg);
+}
+
+.rYjkcYslT4o55rjfwJlI #sidebar-v2 .default-bg-color, .rYjkcYslT4o55rjfwJlI #sidebar-v2.default-bg-color {
+    background: var(--sidebar-bg-color);
+    /* background-color: #454774;
+    background: #023922;
+    background: #222;
+    background: #C33764; 
+background: -webkit-linear-gradient(to right, #1D2671, #C33764);  
+background: linear-gradient(to right, #1D2671, #C33764);  */
+
+/* background: #200122;  fallback for old browsers */
+/* background: -webkit-linear-gradient(to right, #6f0000, #200122);  Chrome 10-25, Safari 5.1-6 */
+/* background: linear-gradient(to right, #6f0000, #200122); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+
+
+/* sidebar background color */
+
+/* sidebar li hover background */
+
+.rYjkcYslT4o55rjfwJlI #sidebar-v2 .hl_nav-header nav a.active, .rYjkcYslT4o55rjfwJlI #sidebar-v2 .hl_nav-header nav a:hover, .rYjkcYslT4o55rjfwJlI #sidebar-v2 .hl_nav-settings nav a.active, .rYjkcYslT4o55rjfwJlI #sidebar-v2 .hl_nav-settings nav a:hover {
+    background: #033e63;
+    /* background: #4b6cf8;
+    background: #2a7857;
+    background: #de3926;
+    background: rgb(151 89 148);
+    background: #dc4564; */
+
+}
+
+/* sidebar li hover background */
+
+/* setting li hover background */
+
+
+.rYjkcYslT4o55rjfwJlI #sidebar-v2 .hl_nav-header-without-footer nav a.active, .rYjkcYslT4o55rjfwJlI #sidebar-v2 .hl_nav-header-without-footer nav a:hover {
+    background: #033e63;
+}
+/* setting li hover background */
+
+
+
+/* setting sidebar sub heading  */
+
+.rYjkcYslT4o55rjfwJlI #sidebar-v2 .default-bg-color, .rYjkcYslT4o55rjfwJlI #sidebar-v2.default-bg-color .hl_header {
+    background: none;
+}
+
+/* setting sidebar sub heading  */
+
+
+/* setting sidebar back button  */
+
+/* .rYjkcYslT4o55rjfwJlI #sidebar-v2 #backButtonv2 {
+    background: #4a7a5b;
+} */
+
+/* setting sidebar back button */
+
+
+
+
+
+/* sidebar location switcher background */
+
+.rYjkcYslT4o55rjfwJlI #sidebar-v2 #location-switcher-sidbar-v2 {
+  
+    background-color: #ffffff;
+}
+
+/* sidebar location switcher background */
+
+
+
+/* sidebar location switcher icon color  */
+
+
+.rYjkcYslT4o55rjfwJlI #sidebar-v2 #location-switcher-sidbar-v2 .switcher-caret-holder {
+    color: #333333;
+}
+
+/* sidebar location switcher icon color */
+
+
+
+
+/* sidebar search placeholder color  */
+
+#sidebar-v2 #globalSearchOpener .search-placeholder, .rYjkcYslT4o55rjfwJlI #sidebar-v2 #quickActions .search-icon, .rYjkcYslT4o55rjfwJlI #sidebar-v2 #quickActions .search-placeholder {
+    color: #333333;
+}
+/* sidebar search placeholder color  */
+
+
+
+
+/* sidebar search background  */
+
+.rYjkcYslT4o55rjfwJlI #sidebar-v2 #globalSearchOpener, .rYjkcYslT4o55rjfwJlI #sidebar-v2 #quickActions {
+    background: #fff;
+}
+
+/* sidebar search background */
+
+
+
+
+/* sidebar location switcher text color  */
+.rYjkcYslT4o55rjfwJlI #sidebar-v2 #location-switcher-sidbar-v2 .hl_switcher-loc-name {
+    color: black;
+}
+
+/* sidebar location switcher text color  */
+
+
+/* sidebar */
+
+
+
+/* topbar */
+
+
+/* .rYjkcYslT4o55rjfwJlI #sidebar-v2 .default-bg-color, .rYjkcYslT4o55rjfwJlI #sidebar-v2.default-bg-color .hl_header {
+    background: #0382d0;
+} */
+
+/* topbar */
+
+/* topbar heading  */
+
+.rYjkcYslT4o55rjfwJlI .hl_header .topmenu-nav .topmenu-navtitle {
+
+    color: #fff;
+}
+
+/* topbar heading  */
+
+/* topbar active tabs   */
+.rYjkcYslT4o55rjfwJlI .hl_header .topmenu-nav .topmenu-navitem.active {
+
+    color: #fff;
+    border-color: #fff;
+}
+
+/* topbar active tabs */
+
+/* topbar tabs */
+.rYjkcYslT4o55rjfwJlI .hl_header .topmenu-nav .topmenu-navitem {
+    --tw-text-opacity: 1;
+    color: rgba(255, 255, 255, 0.825);
+}
+/* topbar tabs */
+
+/* tobar border divider */
+
+.rYjkcYslT4o55rjfwJlI .hl_header .topmenu-nav .topmenu-navitem.divider {
+
+    color: rgba(255, 255, 255, 0.825);
+
+}
+/* tobar border divider */
+
+/* topbar setting icon  */
+.rYjkcYslT4o55rjfwJlI .hl_header .topmenu-nav .topmenu-navitem img {
+    filter: invert(0%) sepia(1%) saturate(4970%) hue-rotate(131deg) brightness(117%) contrast(95%);
+}
+/* topbar setting icon  */
+
+
+
+.rYjkcYslT4o55rjfwJlI .hl_header {
+    background: #0382d0;
+
+}
+
+/* .rYjkcYslT4o55rjfwJlI #sidebar-v2 .default-bg-color, .rYjkcYslT4o55rjfwJlI #sidebar-v2.default-bg-color .hl_header {
+    background: #222;
+} */
+
+.rYjkcYslT4o55rjfwJlI .hl_header .topmenu-nav .topmenu-navtitle {
+
+    color: #fff;
+}
+
+.rYjkcYslT4o55rjfwJlI  .hl_header .topmenu-nav .topmenu-navitem.active {
+
+    color: #fff;
+    border-color: #fff;
+}
+
+.rYjkcYslT4o55rjfwJlI  .hl_header .topmenu-nav .topmenu-navitem {
+    color: rgba(255, 255, 255, 0.885);
+
+}
+.rYjkcYslT4o55rjfwJlI .hl_header .topmenu-nav .topmenu-navitem.divider {
+
+    border-color: rgba(255, 255, 255, 0.625);
+opacity:1;
+}
+
+.rYjkcYslT4o55rjfwJlI .hl_header .topmenu-nav .topmenu-navitem img {
+    filter: invert(0%) sepia(1%) saturate(4970%) hue-rotate(131deg) brightness(117%) contrast(95%);
+}

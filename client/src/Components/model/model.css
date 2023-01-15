@@ -1,0 +1,117 @@
+
+.modal{
+    background-color: #fff;
+   
+    width: 60%; ;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    margin-left: calc(100% - 59.7%);
+ 
+ }
+ 
+ .modal-dialog{
+ margin-top: 0px !important;
+ margin-left: 0px !important;
+ padding: 0px !important;
+ border-radius: 0px !important;
+ border: 0px !important;
+ 
+ max-width: 100% !important; 
+ 
+ }
+
+
+ .modal-body{
+ background-color: #fff;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+ }
+
+ .header {
+   position: relative;
+   height: 30px;
+   width: 100%;
+
+  background-color:rgb(39, 12, 143);
+
+
+ }
+ .header button i{
+   position: absolute ; 
+   right: 10px;
+   top: 5 !important;
+ }
+ .header button {
+  
+  opacity: 0.9 !important;
+  color: #fff;
+}
+
+ .header button:hover{
+  
+  opacity: 1 !important;
+  color: #fff;
+}
+
+ .model-tabs .tabs{
+
+  color: #fff;
+  font-weight: 500;
+  font-size: 15px;
+  opacity: 0.9;
+ }
+ 
+
+ .main-heading{
+background-color: #f8f9fa;
+border-bottom: 1px solid #eceef0;
+padding-top:25px ;
+padding-bottom:5px ;
+ }
+
+ .main-heading h2{
+  font-size: 22px;
+padding-left: 35px;
+font-weight: 600;
+color: #343a40;
+ }
+
+ .tabs-wrapper{
+  background-color:rgb(39, 12, 143);
+
+ }
+ .css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected {
+  color: #fff !important;
+  opacity: 1;
+}
+
+.css-1aquho2-MuiTabs-indicator {
+
+  background-color: #fff !important;
+}
+
+.img-wrapper{
+  border: 1px solid #6b6b6b49;
+  margin: auto;
+}
+
+.content-wrapper{
+  height: 70vh;
+  width: 99%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.arialabel{
+
+  width: 300px;
+  height: 150px;
+  overflow: scroll;
+  overflow-y: hidden;
+  border: 1px solid rgba(0, 0, 0, 0.215);
+  padding: 15px;
+  /* display: none; */
+  
+}

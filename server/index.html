@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <script src="http://127.0.0.1:5502/server/public/js/hello.js"></script>
+        
+    </head>
+    <body>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus consequatur exercitationem adipisci repellendus magnam similique ipsum, unde assumenda aliquam quaerat delectus consequuntur distinctio iure cupiditate repellat rerum? At, ducimus perferendis.</p>
+        <textarea id="texter"></textarea>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+        <script>
+            const queryString = window.location.search;
+
+const urlParams = new URLSearchParams(queryString);
+
+const id = urlParams.get('id');
+            $(document).find("#texter").text("<script src='http://localhost:8080/css/form/hello.js?id="+id+"'>");
+        </script>
+    </body>
+    
+</html>
+
